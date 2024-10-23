@@ -1,5 +1,6 @@
 # 💫 About Me:
 am currently learning : html, css and java
+fun fact : giraffe are cool as hell :D
 
 
 # 💻 Tech Stack:
